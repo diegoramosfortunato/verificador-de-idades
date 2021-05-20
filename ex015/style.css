@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+body{
+background-color: rgb(70, 142, 236);
+font: normal 1em arial;
+}
+
+header{
+color: white;
+text-align: center; /* Para centralizar o texto */
+
+
+}
+
+section{
+    background-color: white;
+    border-radius: 10px; /* Deixar a borda arredondada */
+    padding: 15px; /* Espaçamento dentro da section */
+    width: 500px; /* largura fixa */
+    margin: auto; /* Para centralizar na tela */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356); /* Botar um sombreado */
+    
+}
+
